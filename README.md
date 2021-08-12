@@ -1,6 +1,6 @@
 ### Olá! Me chamo Henrique Moreira
 
- 🔭 Hoje estou cursando o 4° período de Tecnologia em Sistemas para Internet a procura de uma oportunidade para me tornar um Dev!
+ 🔭 Atualmente estou cursando o 4° período de Tecnologia em Sistemas para Internet a procura de uma oportunidade para me tornar um Dev!
 
  <div>
   <a href="https://github.com/Henrique-Moreira">
