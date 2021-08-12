@@ -17,7 +17,7 @@
   <img align="center" alt="Logo MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
 </div>
 
-<!--   ![Snake animation](https://github.com/Henrique-Moreira/Henrique-Moreira/blob/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://github.com/Henrique-Moreira/Henrique-Moreira/blob/output/github-contribution-grid-snake.svg)
  
   
   
