@@ -1,6 +1,6 @@
 ### Olá! Me chamo Henrique Moreira
 
- 🔭 Atualmente estou cursando o 5° e último período do curso Superior em tecnologia em Sistemas para Internet!
+ 🔭 Atualmente estou cursando o 5° e último período do curso Superior em tecnologia de Sistemas para Internet!
 
  <div>
   <a href="https://github.com/Henrique-Moreira">
