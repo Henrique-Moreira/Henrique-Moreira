@@ -1,6 +1,6 @@
-### Olá! Me chamo Henrique Moreira
+### Hi! I'm Henrique Moreira
 
- 🔭 Atualmente estou cursando o 5° e último período do curso Superior em tecnologia de Sistemas para Internet!
+ 🔭 Backend Developer
 
  <div>
   <a href="https://github.com/Henrique-Moreira">
